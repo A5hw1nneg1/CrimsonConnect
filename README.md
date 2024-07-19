@@ -21,7 +21,7 @@ Users receive real-time notifications regarding new donation requests, matched d
 
 ### Donor Feedback and Ratings:
 
-Recipients have the option to provide feedback and ratings for donors based on their donation experience, helping to build a reliable and trustworthy community of blood donors.
+Recipients have the option to provide feedback and ratings for donors based on their  experience, helping to build a reliable and trustworthy community of blood donors.
 Donors can showcase their donation history, feedback ratings, and testimonials on their profiles, establishing credibility and encouraging more participation.
 
 ## Benefits:
